@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@gsap/react": "^2.1.1",
+    "gsap": "^3.12.5",
+    "react-router-dom": "^7.0.2",
+    "smooth-scroll": "^16.1.3"
+  }
+}
